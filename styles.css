@@ -142,6 +142,7 @@ h1, h2 {
     }
     .div-content-one {
         grid-column: span 2;
+        padding-right: 4rem;
     }
     .div-content-two {
         grid-column: span 2;
@@ -149,7 +150,7 @@ h1, h2 {
         border-radius: 0 0 0.325rem 0.325rem;
     }
     .div-content-two > div {
-        min-width: 225px;
+        min-width: 250px;
     }
     .div-two-sub-one {
         border-radius: 0 0 0 0.325rem;
@@ -161,7 +162,7 @@ h1, h2 {
         padding-right: 0;
     }
     main {
-        max-width: 450px;
+        max-width: 500px;
     }
     /* {
         outline: 2px solid red;
